@@ -260,7 +260,7 @@ aside .card #kartica1 ,th,td{
 }
 span.naslov{
 	display: block;
-	width: 300px;
+	width: 30%;
 	font: italic bold 20px Times, serif;
 	color: white;
 	margin: 0 auto;
